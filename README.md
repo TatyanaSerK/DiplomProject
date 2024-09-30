@@ -28,5 +28,5 @@
    
 
 requirements.txt – файл с установленными библиотеками и версиями
-https://drive.google.com/drive/folders/1oOw85ZkCo76D42YV6YhIjgzlHJo-ZCrT?usp=drive_link - данные для обработки
+https://drive.google.com/drive/folders/1oOw85ZkCo76D42YV6YhIjgzlHJo-ZCrT?usp=sharing - данные для обработки
 
